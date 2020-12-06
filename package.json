@@ -19,11 +19,11 @@
   },
   "homepage": "https://github.com/maaysiq/projeto-final#readme",
   "devDependencies": {
-    "express": "^4.17.1",
     "nodemon": "^2.0.6"
   },
   "dependencies": {
     "dotenv-safe": "^8.2.0",
-    "mongoose": "^5.11.3"
+    "mongoose": "^5.11.3",
+    "express": "^4.17.1"
   }
 }
