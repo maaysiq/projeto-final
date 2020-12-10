@@ -30,7 +30,7 @@ app.use(function (req, res, next) {
   })
 
 app.use("/", index)
-app.use("/fundosImobiliarios", fundosImobiliarios)
+app.use("/fundosimobiliarios", fundosImobiliarios)
 
 
 module.exports = app
