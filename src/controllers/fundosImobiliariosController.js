@@ -68,7 +68,7 @@ const createFundosImobiliarios = (req, res) => {
     fundosImobiliario.save(function(err) {
         if(err){
             res.status(500).send({ message: err.message, message: FAIL})
-      }  res.status(200).send({ message: "Fundo Imobiliário Registrado com Sucesso!"})
+      }  res.status(201).send({ message: "Fundo Imobiliário Registrado com Sucesso!"})
     });
 };
 
