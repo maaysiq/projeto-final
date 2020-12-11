@@ -98,7 +98,7 @@
 ---
 
 <a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius:20%;" src="imagens/ftomayara2.png" width="80px;" alt=""/>
+ <img style="border-radius:40%;" src="imagens/ftomayara2.png" width="80px;" alt=""/>
  <br />
  <sub><b>Mayara Siqueira</b></sub></a>
 
