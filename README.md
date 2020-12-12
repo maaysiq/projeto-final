@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  <img src="imagens/Finance.gif" alt="Homem planejando" width="500">
+  <img src="imagens/Finance.gif" alt="Homem planejando" width="">
 <p align="center">API Fundo de Investimentos Imobiliarios - FIIs<p>
 </h1>
 
@@ -20,12 +20,20 @@
 ## **Sumário**
 
 📈[Apresentação](#Apresentação)
+
 🔧[Funcionalidades](#Funcionalidades)
+
 🚀[Tecnologias](#Tecnologias)
+
 6.[Instruções de instalação e contribuições no projeto](#Instrucoes-de-instalação-e-contribuições-no-projeto)
+
 🎯 [Rotas HTTP](#Rotas-HTTP)
+
 8. [Referências](#Referências)
  
+
+
+
 
  ## 📈 **Apresentação**
 
