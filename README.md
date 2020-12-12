@@ -5,25 +5,69 @@
 
 
 <h1 align="center">
-  <img src="imagens/fundosimob.png" alt="predios interligados " width="500">
+  <img src="imagens/Finance.gif" alt="Homem planejando" width="500">
 <p align="center">API Fundo de Investimentos Imobiliarios - FIIs<p>
 </h1>
 
-<h4 align="center"> 
-👷 🚧  API Node.js 🚀 Em construção... 🚧 👷  
-</h4>
+> Banco de dados de Fundos de Investimentos Imobiliários para se investir no ano de 2021 💰
+
+> Status: API Node.js 🚀 Em construção... 🚧 👷  
+
+
+
 
 
 ## **Sumário**
 
-1. [Apresentação](#Apresentação)
-2. [Fonte de Dados](#Fonte-de-dados)
-4. [Funcionalidades](#Funcionalidades)
-5. [Tecnologias, dependências e bibliotecas](#Tecnologias,-dependencias-e-bibliotecas)
-6. [Instruções de instalação e contribuições no projeto](#Instrucoes-de-instalação-e-contribuições-no-projeto)
-7. [Rotas HTTP](#Rotas-HTTP)
+📈[Apresentação](#Apresentação)
+🔧[Funcionalidades](#Funcionalidades)
+🚀[Tecnologias](#Tecnologias)
+6.[Instruções de instalação e contribuições no projeto](#Instrucoes-de-instalação-e-contribuições-no-projeto)
+🎯 [Rotas HTTP](#Rotas-HTTP)
 8. [Referências](#Referências)
  
+
+ ## 📈 **Apresentação**
+
+ A API Fundo de Investimentos Imobiliarios - FIIs é o projeto de conclusão do bootcamp de Back-end da [{reprograma}](https://reprograma.com.br/), em parceria com o [projeto MINAs do Porto Digital](https://www.portodigital.org/capital-humano/iniciativas-para-a-diversidade/mulheres-em-inovacao-negocios-e-artes-minas). É uma API que tem por objetivo informar quais os melhores fundos imobiliários para se investir no ano de 2021.
+
+
+
+
+ ## 🚀 **Tecnologias**
+
+ [Git](https://git-scm.com/)
+
+ [GitHub](https://github.com/)
+
+ [NodeJS](https://nodejs.org/pt-br/) 
+
+ [Nodemon](https://www.npmjs.com/package/nodemon)
+
+ [Express](https://expressjs.com/pt-br/)
+
+ [MongoDB](https://www.mongodb.com/)
+
+ [Mongoose](https://mongoosejs.com/)
+
+ [Dotenv-safe](https://www.npmjs.com/package/dotenv-safe)
+
+ 
+##  🔧 **Funcionalidades**
+
+- [X] Cadastro de fundos de investimentos imobiliários;
+- [X] Lista de todos os  fundos de investimentos imobiliários cadastrados;
+- [X] Lista de fundos de investimentos imobiliários por ID;
+- [X] Lista de fundos de investimentos imobiliários por fundos;
+- [X] Lista de fundos de investimentos imobiliários por segmentos;
+- [X] Atualização de fundos de investimentos imobiliários;
+- [X] Remoção de fundos de investimentos imobiliários.
+
+
+ 
+
+ 
+
 
 
 
