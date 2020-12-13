@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  <img src="imagens/Finance.gif" alt="Homem planejando" width="500">
+  <img src="imagens/Finance.gif" alt="Homem planejando" width="500" height="300">
   <p align="center">API Fundo de Investimentos Imobiliarios - FIIs<p>
 </h1>
 
