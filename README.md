@@ -64,86 +64,43 @@ Esta API está sendo executada na `porta 8080` e para que todas as rotas possam 
 | Atualização de fundos de Investimentos Imobiliários por fundo | PUT | `/fundosimobiliarios?fundo=<nome-do-fundoImobiliário>` |
 | Remoção de fundos de Investimentos Imobiliários por fundo| DELETE | `/fundosimobiliarios?fundo=<nome-do-fundoImobiliário>` |
 
+
+## **Instruções para instalação e contribuições no projeto**
+
+*Instalação*
+
+ Clonar o repositório
+` git clone https://github.com/maaysiq/projeto-final `
+
+Entrar na pasta do repositório
+` cd reprograma-projeto-final `
+
+ Instalar as dependências
+ ` npm install `
+
+ Renomeie `.env.example` para `.env` e adicione os valores das variáveis `PORT` (porta sugerida `8080`), `MONGODB_URL` (string de conexão com o banco de dados)
+
+ Executar o servidor
+ ` npm start `
+
+*Contribuição*
+
+Faça um `fork` do projeto 
+
+Crie uma branch para realizar suas alterações: `git checkout -b feature/nome-da-sua-branch`
+
+Commit suas alterações `git commit -m 'sua mensagem'`
+
+Suba o projeto no seu GitHub `git push origin feature/<sua_branch>`;
+
+ Crie um novo _Pull Request_ com as contribuições para o projeto original.
+
  ## 🔍 **Referências**
 
 
 [Como escrever um README.md sensacional no Github](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509#o-que-%C3%A9-o-readme)
 
 [Clube Fundos de Investimentos Imobiliários](https://www.clubefii.com.br/)
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Autora
@@ -155,7 +112,8 @@ Esta API está sendo executada na `porta 8080` e para que todas as rotas possam 
  <sub><b>Mayara Siqueira</b></sub></a>
 
 
- Entre em contato!❤️👋🏽
+ Feito com ❤️
+ Entre em Contato👋🏽
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mayara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/may-siqueira/)](https://www.linkedin.com/in/may-siqueira/) 
