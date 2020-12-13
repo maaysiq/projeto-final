@@ -13,7 +13,7 @@
 
 > Status: Em construção... 🚧 👷  
 
- ## 📈 **Apresentação**
+ ## 📚 **Sobre o Projeto**
 
  A API Fundo de Investimentos Imobiliarios - FIIs é o projeto de conclusão do bootcamp de Back-end da [{reprograma}](https://reprograma.com.br/), em parceria com o projeto [ MINAs do Porto Digital](https://www.portodigital.org/capital-humano/iniciativas-para-a-diversidade/mulheres-em-inovacao-negocios-e-artes-minas). É uma API que tem por objetivo informar quais os melhores fundos imobiliários para se investir no ano de 2021.
 
